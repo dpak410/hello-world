@@ -1,6 +1,6 @@
 # hello-world
 beginner's world
 
-Hello humans,
+Hello world,
 
-I am blah blah blah from blah blah blah...
+My name is Mr. Deepak Kafle. You can call me Mr. Boss.
